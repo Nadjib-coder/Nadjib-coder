@@ -10,6 +10,6 @@ I firmly believe that collaboration is key to unlocking new possibilities and fo
 ### Let's Connect!
 GitHub: https://github.com/Nadjib-coder
 Email: nadjibmouhoun1@gmail.com
-LinkedIn: linkedin.com/in/nadjib-mouhoun
+LinkedIn: https://www.linkedin.com/in/nadjib-mouhoun/
 
 Thank you for visiting my GitHub profile! Feel free to reach out, explore my work, and join me on this exciting coding adventure. Let's build innovative solutions and create a brighter future through software engineering! 🚀
