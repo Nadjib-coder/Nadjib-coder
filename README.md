@@ -1,5 +1,5 @@
 ### Hey there! 👋
-Welcome to my GitHub profile! I'm [Nadjib Mouhoun], a passionate software engineering student with a strong drive for learning and creating. I'm excited to share my coding journey with you, showcasing my projects, contributions, and growth as a software engineer.
+Welcome to my GitHub profile! I'm Nadjib Mouhoun, a passionate software engineering student with a strong drive for learning and creating. I'm excited to share my coding journey with you, showcasing my projects, contributions, and growth as a software engineer.
 
 ### About Me
 I'm currently pursuing my degree in Software Engineering, fueled by a deep curiosity for all things tech. I love exploring new technologies, experimenting with different programming languages, and delving into various software development domains. I'm dedicated to honing my skills, collaborating with fellow developers, and continuously expanding my knowledge.
