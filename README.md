@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Airbnb clone project<br>👯 I’m looking to collaborate on Web App projects<br>🤝 I’m looking for help with other programmer<br>🌱 I’m currently learning Software & Automation engineering<br>
+🔭 I’m currently working on Airbnb clone project<br>👯 I’m looking to collaborate on Web App projects<br>🤝 I’m looking for help with other programmers<br>🌱 I’m currently learning Software & Automation engineering<br>
 
 
 ## 🌐 Socials:
