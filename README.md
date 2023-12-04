@@ -12,7 +12,7 @@ I firmly believe that collaboration is key to unlocking new possibilities and fo
 
 ### Let's Connect!
 
-GitHub: https://github.com/Nadjib-coder Email: [nadjibmouhoun1@gmail.com](mailto:nadjibmouhoun1@gmail.com) LinkedIn: https://www.linkedin.com/in/nadjib-mouhoun/
+GitHub: https://github.com/Nadjib-coder Email: [nadjibmouhoun1@gmail.com] LinkedIn: https://www.linkedin.com/in/nadjib-mouhoun/
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nadjib Mouhoun) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Nadjib M) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14968930) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nadjib737) 
 
