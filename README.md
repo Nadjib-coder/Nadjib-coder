@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Airbnb clone project<br>👯 I’m looking to collaborate on Web App projects<br>🤝 I’m looking for help with other programmers<br>🌱 I’m currently learning Software & Automation engineering<br>
+# About Me:
+I'm currently pursuing my degree in Software Engineering, fueled by a deep curiosity for all things tech. I love exploring new technologies, experimenting with different programming languages, and delving into various software development domains. I'm dedicated to honing my skills, collaborating with fellow developers, and continuously expanding my knowledge.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Nadjib-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nadjib-coder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadjib-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nadjib-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
