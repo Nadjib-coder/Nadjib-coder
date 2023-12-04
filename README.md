@@ -25,7 +25,4 @@ GitHub: [https://github.com/Nadjib-coder] Email: [nadjibmouhoun1@gmail.com] 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 Thank you for visiting my GitHub profile! Feel free to reach out, explore my work, and join me on this exciting coding adventure. Let's build innovative solutions and create a brighter future through software engineering! 🚀
