@@ -5,7 +5,6 @@ I'm Nadjib Mouhoun, a Fullstack Software Engineer passionate about building clea
 I work across frontend and backend technologies, constantly learning and improving my development skills. I enjoy collaborating, exploring new tools, and contributing to meaningful projects.
 
 ### Let's Connect
-GitHub: https://github.com/Nadjib-coder  
 Email: nadjibmouhoun1@gmail.com  
 LinkedIn: https://www.linkedin.com/in/Nadjib-mouhoun/
 
