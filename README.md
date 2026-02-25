@@ -11,28 +11,13 @@ LinkedIn: https://www.linkedin.com/in/Nadjib-mouhoun/
 ## 💻 Tech Stack
 
 ### Frontend
-- NextJS (TypeScript)
-- React
-- JavaScript / HTML5 / CSS3
-- TailwindCSS
-- Bootstrap
+NextJS (TypeScript), React, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap
 
 ### Backend & Databases
-- C#
-- .NET Framework 4.8
-- ASP.NET Core
-- Python
-- NodeJS | ExpressJS
-- MySQL
-- SQL Server
-- MongoDB
-- DynamoDB
+C, C#, .NET Framework 4.8, ASP.NET Core, Python, NodeJS, ExpressJS
+MySQL, SQL Server, MongoDB, DynamoDB
 
-### Tools & Others
-- Git
-- CLI
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadjib-coder&theme=dark&layout=compact)
+### Tools
+Git, CLI
 
 Thank you for visiting my profile.
