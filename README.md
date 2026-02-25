@@ -22,6 +22,7 @@ LinkedIn: https://www.linkedin.com/in/Nadjib-mouhoun/
 - .NET Framework 4.8
 - ASP.NET Core
 - Python
+- NodeJS | ExpressJS
 - MySQL
 - SQL Server
 - MongoDB
@@ -30,7 +31,6 @@ LinkedIn: https://www.linkedin.com/in/Nadjib-mouhoun/
 ### Tools & Others
 - Git
 - CLI
-- MERN Stack Experience
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadjib-coder&theme=dark&layout=compact)
